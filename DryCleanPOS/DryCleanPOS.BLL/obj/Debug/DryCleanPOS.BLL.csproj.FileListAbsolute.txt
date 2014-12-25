@@ -1,0 +1,4 @@
+E:\DryCleanPOS\DryCleanPOS.BLL\bin\Debug\DryCleanPOS.BLL.dll
+E:\DryCleanPOS\DryCleanPOS.BLL\bin\Debug\DryCleanPOS.BLL.pdb
+E:\DryCleanPOS\DryCleanPOS.BLL\obj\Debug\DryCleanPOS.BLL.dll
+E:\DryCleanPOS\DryCleanPOS.BLL\obj\Debug\DryCleanPOS.BLL.pdb

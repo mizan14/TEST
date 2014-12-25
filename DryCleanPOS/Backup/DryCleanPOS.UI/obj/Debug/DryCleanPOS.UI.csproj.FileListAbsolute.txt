@@ -1,0 +1,5 @@
+E:\DryCleanPOS\Backup\DryCleanPOS.UI\bin\DryCleanPOS.UI.dll
+E:\DryCleanPOS\Backup\DryCleanPOS.UI\bin\DryCleanPOS.UI.pdb
+E:\DryCleanPOS\Backup\DryCleanPOS.UI\obj\Debug\DryCleanPOS.UI.dll
+E:\DryCleanPOS\Backup\DryCleanPOS.UI\obj\Debug\DryCleanPOS.UI.pdb
+E:\DryCleanPOS\Backup\DryCleanPOS.UI\obj\Debug\DryCleanPOS.UI.csprojResolveAssemblyReference.cache
